@@ -1,0 +1,11 @@
+# Entornos virtuales
+entorno_domotico/
+__pycache__/
+*.pyc
+
+# Datos (No código)
+*.db
+fotos/
+
+# Archivos de sistema
+.DS_Store
